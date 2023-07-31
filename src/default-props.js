@@ -25,6 +25,7 @@ let defaultProps = {
   initialSlide: 0,
   lazyLoad: null,
   nextArrow: null,
+  noRightPadding: false,
   onEdge: null,
   onInit: null,
   onLazyLoadError: null,
